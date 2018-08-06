@@ -1,0 +1,21 @@
+/* ie9不兼容flex布局，可以使用margin和padding */
+.myBox{
+    width: 600px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.list{
+    float: left;
+    width: 200px;
+    margin-bottom: -9999px;
+    padding-bottom: 9999px;
+}
+.list_red{
+    background-color: red;
+}
+.list_green{
+    background-color: green;
+}
+.list_blue{
+    background-color: blue;
+}

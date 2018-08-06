@@ -1,0 +1,5 @@
+实现高度随着字体多少来自适应
+使用了两种方法，一种是flex布局
+
+IE9不兼容flex布局
+使用了margin-bottom和padding-bottom来实现布局

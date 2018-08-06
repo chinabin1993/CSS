@@ -1,0 +1,17 @@
+.myBox{
+    display: flex;
+}
+.list{
+    width: 33%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.list_red{
+    background-color: red;
+}
+.list_green{
+    background-color: green;
+}
+.list_blue{
+    background-color: blue;
+}
